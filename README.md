@@ -1,0 +1,2 @@
+# agencia_bancaria
+Este código es una secuencia de comandos SQL que crea una base de datos llamada agencia_bancaria y las tablas necesarias para registrar información sobre cuentahabientes, tarjetas, tipos de cuenta, zonas, colonias, municipios, sucursales, empleados, cuentas mancomunadas y transacciones bancarias.
